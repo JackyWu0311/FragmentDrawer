@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">MimeAppPager</string>
+<string name="hello_world">Hello world</string>
+<string name="drawer_open">MimePlayerDrawer</string>
+<string name="drawer_close"></string>
+<string name="action_settings">Settings</string>
+</resources>
